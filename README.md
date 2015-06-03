@@ -1,7 +1,7 @@
 <a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a> 
 
 # Guides and Templates and Etc.
-BC Developers' Exchange and Guidline Documents - All the information a BC Public Sector employee could ever want about GitHub
+BC Developers' Exchange and Guideline Documents - All the information a BC Public Sector employee could ever want about GitHub
 
 ***
 The BCDevExchange GitHub Organization represents an ongoing effort to enable public & private sector, as well at citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical "government" procurement/contract model.
